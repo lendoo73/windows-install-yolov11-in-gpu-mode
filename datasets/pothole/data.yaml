@@ -1,0 +1,15 @@
+path: datasets/pothole
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['pothole']
+
+roboflow:
+  workspace: plothole
+  project: pothole-yuqz7
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/plothole/pothole-yuqz7/dataset/2

@@ -1,0 +1,8 @@
+path: datasets/car-parking-lot-dataset
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: car
+  1: empty_space

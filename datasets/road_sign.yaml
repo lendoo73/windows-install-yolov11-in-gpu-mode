@@ -1,0 +1,10 @@
+# Dataset Path
+#path: C:/Codes/Python/Machine_Learning/Computer_Vision/YOLO/YOLO26_&_The_Legacy_-_6_in_1_YOL_Masterclass_2026/23-YOLOv11_GPU_Mode/datasets/road_sign_dataset
+path: datasets/road_sign_dataset
+
+train: images/train # relative to path
+val: images/val # relative to path
+test: images/test # relative to path
+
+# Class Names
+names: [Speedlimit, TrafficLight, Stop, Crosswalk]
