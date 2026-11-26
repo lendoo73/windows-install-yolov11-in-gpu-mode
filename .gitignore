@@ -25,3 +25,10 @@ runs/**
 !runs/**/yolo11l-chest_xray-classification.pt
 !runs/**/yolo11l_car_parking_lot.pt
 !runs/**/yolo11l-pothole-segmentation.pt
+
+# Official Ultralytics YOLO11 downloadable checkpoints
+yolo11[nsmlx].pt
+yolo11[nsmlx]-cls.pt
+yolo11[nsmlx]-obb.pt
+yolo11[nsmlx]-pose.pt
+yolo11[nsmlx]-seg.pt
