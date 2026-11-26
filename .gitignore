@@ -19,3 +19,9 @@ secrets.*
 *.log
 .DS_Store
 Thumbs.db
+runs/**
+!runs/**/
+!runs/**/best.pt
+!runs/**/yolo11l-chest_xray-classification.pt
+!runs/**/yolo11l_car_parking_lot.pt
+!runs/**/yolo11l-pothole-segmentation.pt

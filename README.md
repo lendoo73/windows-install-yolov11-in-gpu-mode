@@ -14,7 +14,7 @@ This project accompanies the [YOLO Masterclass](https://www.udemy.com/course/yol
 - `datasets/` - road-sign, pothole, parking-lot, and chest X-ray dataset files and
   their training configurations.
 - `inference/` and `result/` - example inputs and generated inference videos.
-- `runs/` - training outputs, metrics, and model checkpoints.
+- `runs/` - best and custom-named model checkpoints only; generated predictions and training artifacts are excluded.
 - `23-152_Install_YOLOv11_in_GPU_Mode.md` - concise GPU installation note.
 
 ## Installation
